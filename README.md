@@ -1,2 +1,2 @@
 # veriYapilari_example
-Veri ile ilgili çalışmalarım.
+Veri yapıları ile ilgili çalışmalarım.
